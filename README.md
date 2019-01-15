@@ -1,0 +1,2 @@
+# gnote
+Create versioned notes
